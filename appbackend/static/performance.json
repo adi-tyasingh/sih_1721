@@ -1,0 +1,203 @@
+[
+    {
+      "athlete_id": "e3e70682",
+      "record_id": "r25",
+      "event": "Marathon",
+      "event_date": "2024-12-30",
+      "position": 5,
+      "score": 2.10,
+      "score_unit": "hours",
+      "location": "New York, USA"
+    },
+    {
+      "athlete_id": "d4713d60",
+      "record_id": "r26",
+      "event": "Marathon",
+      "event_date": "2024-12-31",
+      "position": 2,
+      "score": 2.05,
+      "score_unit": "hours",
+      "location": "New York, USA"
+    },
+    {
+      "athlete_id": "23a7711a",
+      "record_id": "r27",
+      "event": "5k Run",
+      "event_date": "2025-01-05",
+      "position": 1,
+      "score": 15.30,
+      "score_unit": "minutes",
+      "location": "Chicago, USA"
+    },
+    {
+      "athlete_id": "88561712",
+      "record_id": "r28",
+      "event": "5k Run",
+      "event_date": "2025-01-06",
+      "position": 4,
+      "score": 16.10,
+      "score_unit": "minutes",
+      "location": "Chicago, USA"
+    },
+    {
+      "athlete_id": "e61a441c",
+      "record_id": "r29",
+      "event": "10k Run",
+      "event_date": "2025-01-10",
+      "position": 3,
+      "score": 32.25,
+      "score_unit": "minutes",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "athlete_id": "9c6316b9",
+      "record_id": "r30",
+      "event": "10k Run",
+      "event_date": "2025-01-11",
+      "position": 1,
+      "score": 30.55,
+      "score_unit": "minutes",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "athlete_id": "e3e70682",
+      "record_id": "r31",
+      "event": "100m Freestyle Swim",
+      "event_date": "2025-01-15",
+      "position": 3,
+      "score": 47.80,
+      "score_unit": "seconds",
+      "location": "Miami, USA"
+    },
+    {
+      "athlete_id": "d4713d60",
+      "record_id": "r32",
+      "event": "100m Freestyle Swim",
+      "event_date": "2025-01-16",
+      "position": 2,
+      "score": 47.50,
+      "score_unit": "seconds",
+      "location": "Miami, USA"
+    },
+    {
+      "athlete_id": "23a7711a",
+      "record_id": "r33",
+      "event": "200m Backstroke",
+      "event_date": "2025-01-20",
+      "position": 1,
+      "score": 1.58,
+      "score_unit": "minutes",
+      "location": "San Francisco, USA"
+    },
+    {
+      "athlete_id": "88561712",
+      "record_id": "r34",
+      "event": "200m Backstroke",
+      "event_date": "2025-01-21",
+      "position": 5,
+      "score": 2.02,
+      "score_unit": "minutes",
+      "location": "San Francisco, USA"
+    },
+    {
+      "athlete_id": "e61a441c",
+      "record_id": "r35",
+      "event": "Shot Put",
+      "event_date": "2025-01-25",
+      "position": 1,
+      "score": 22.15,
+      "score_unit": "meters",
+      "location": "Toronto, Canada"
+    },
+    {
+      "athlete_id": "9c6316b9",
+      "record_id": "r36",
+      "event": "Shot Put",
+      "event_date": "2025-01-26",
+      "position": 2,
+      "score": 22.05,
+      "score_unit": "meters",
+      "location": "Toronto, Canada"
+    },
+    {
+      "athlete_id": "e3e70682",
+      "record_id": "r37",
+      "event": "Pole Vault",
+      "event_date": "2025-01-30",
+      "position": 3,
+      "score": 5.80,
+      "score_unit": "meters",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "athlete_id": "d4713d60",
+      "record_id": "r38",
+      "event": "Pole Vault",
+      "event_date": "2025-01-31",
+      "position": 2,
+      "score": 5.85,
+      "score_unit": "meters",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "athlete_id": "23a7711a",
+      "record_id": "r39",
+      "event": "800m Run",
+      "event_date": "2025-02-05",
+      "position": 1,
+      "score": 1.44,
+      "score_unit": "minutes",
+      "location": "Berlin, Germany"
+    },
+    {
+      "athlete_id": "88561712",
+      "record_id": "r40",
+      "event": "800m Run",
+      "event_date": "2025-02-06",
+      "position": 4,
+      "score": 1.46,
+      "score_unit": "minutes",
+      "location": "Berlin, Germany"
+    },
+    {
+      "athlete_id": "e61a441c",
+      "record_id": "r41",
+      "event": "Discus Throw",
+      "event_date": "2025-02-10",
+      "position": 2,
+      "score": 68.40,
+      "score_unit": "meters",
+      "location": "Cape Town, South Africa"
+    },
+    {
+      "athlete_id": "9c6316b9",
+      "record_id": "r42",
+      "event": "Discus Throw",
+      "event_date": "2025-02-11",
+      "position": 1,
+      "score": 69.20,
+      "score_unit": "meters",
+      "location": "Cape Town, South Africa"
+    },
+    {
+      "athlete_id": "e3e70682",
+      "record_id": "r43",
+      "event": "Triple Jump",
+      "event_date": "2025-02-15",
+      "position": 3,
+      "score": 17.40,
+      "score_unit": "meters",
+      "location": "Lisbon, Portugal"
+    },
+    {
+      "athlete_id": "d4713d60",
+      "record_id": "r44",
+      "event": "Triple Jump",
+      "event_date": "2025-02-16",
+      "position": 2,
+      "score": 17.60,
+      "score_unit": "meters",
+      "location": "Lisbon, Portugal"
+    }
+  ]
+  

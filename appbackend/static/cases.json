@@ -1,0 +1,27 @@
+[
+    {
+      "case_id": "c1a9f870",
+      "athlete_id": "e3e70682",
+      "status": "Open",
+      "resolved": false,
+      "assignee": "Rajiv Kumar",
+      "date": "2024-12-01"
+    },
+    {
+      "case_id": "d3b8a67f",
+      "athlete_id": "d4713d60",
+      "status": "In Progress",
+      "resolved": false,
+      "assignee": null,
+      "date": "2024-11-20"
+    },
+    {
+      "case_id": "f67c3e2d",
+      "athlete_id": "23a7711a",
+      "status": "Resolved",
+      "resolved": true,
+      "assignee": "Anil Verma",
+      "date": "2024-10-15"
+    }
+  ]
+  

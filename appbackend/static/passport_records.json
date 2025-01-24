@@ -1,0 +1,256 @@
+[
+    {
+      "record_id": "b8",
+      "athlete_id": "e3e70682",
+      "blood_res": {
+        "hemoglobin_concentration": "14.8 g/dL",
+        "hematocrit": "42.5%",
+        "reticulocyte_percentage": "1.2%",
+        "off_score": "78.3",
+        "mean_corpuscular_hemoglobin_concentration": "33.4 g/dL",
+        "red_blood_cell_distribution_width": "13.5%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "1.1",
+        "specific_gravity": "1.020",
+        "cortisol_concentration": "120 ng/mL",
+        "human_growth_hormone_isoforms": "0.5 ng/mL",
+        "erythropoietin_levels": "12 mIU/mL",
+        "ph": "6.5"
+      },
+      "note": "All parameters within normal range."
+    },
+    {
+      "record_id": "b9",
+      "athlete_id": "d4713d60",
+      "blood_res": {
+        "hemoglobin_concentration": "15.2 g/dL",
+        "hematocrit": "44.0%",
+        "reticulocyte_percentage": "1.1%",
+        "off_score": "80.0",
+        "mean_corpuscular_hemoglobin_concentration": "34.1 g/dL",
+        "red_blood_cell_distribution_width": "13.0%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "0.9",
+        "specific_gravity": "1.018",
+        "cortisol_concentration": "115 ng/mL",
+        "human_growth_hormone_isoforms": "0.4 ng/mL",
+        "erythropoietin_levels": "10 mIU/mL",
+        "ph": "6.8"
+      },
+      "note": "Stable results with slight variation in SG."
+    },
+    {
+      "record_id": "b10",
+      "athlete_id": "23a7711a",
+      "blood_res": {
+        "hemoglobin_concentration": "13.7 g/dL",
+        "hematocrit": "40.5%",
+        "reticulocyte_percentage": "1.3%",
+        "off_score": "75.6",
+        "mean_corpuscular_hemoglobin_concentration": "32.8 g/dL",
+        "red_blood_cell_distribution_width": "12.8%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "1.2",
+        "specific_gravity": "1.025",
+        "cortisol_concentration": "125 ng/mL",
+        "human_growth_hormone_isoforms": "0.6 ng/mL",
+        "erythropoietin_levels": "13 mIU/mL",
+        "ph": "7.0"
+      },
+      "note": "Elevated cortisol levels; suggest monitoring."
+    },
+    {
+      "record_id": "b11",
+      "athlete_id": "88561712",
+      "blood_res": {
+        "hemoglobin_concentration": "16.0 g/dL",
+        "hematocrit": "45.8%",
+        "reticulocyte_percentage": "1.0%",
+        "off_score": "82.0",
+        "mean_corpuscular_hemoglobin_concentration": "35.0 g/dL",
+        "red_blood_cell_distribution_width": "14.0%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "1.0",
+        "specific_gravity": "1.015",
+        "cortisol_concentration": "110 ng/mL",
+        "human_growth_hormone_isoforms": "0.3 ng/mL",
+        "erythropoietin_levels": "11 mIU/mL",
+        "ph": "6.2"
+      },
+      "note": "Higher hemoglobin concentration; consistent with training adaptation."
+    },
+    {
+      "record_id": "b12",
+      "athlete_id": "e61a441c",
+      "blood_res": {
+        "hemoglobin_concentration": "14.5 g/dL",
+        "hematocrit": "41.0%",
+        "reticulocyte_percentage": "1.4%",
+        "off_score": "77.0",
+        "mean_corpuscular_hemoglobin_concentration": "33.0 g/dL",
+        "red_blood_cell_distribution_width": "13.2%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "1.3",
+        "specific_gravity": "1.022",
+        "cortisol_concentration": "118 ng/mL",
+        "human_growth_hormone_isoforms": "0.5 ng/mL",
+        "erythropoietin_levels": "14 mIU/mL",
+        "ph": "6.9"
+      },
+      "note": "Healthy results with slightly elevated reticulocyte percentage."
+    },
+    {
+      "record_id": "b13",
+      "athlete_id": "9c6316b9",
+      "blood_res": {
+        "hemoglobin_concentration": "14.2 g/dL",
+        "hematocrit": "40.8%",
+        "reticulocyte_percentage": "1.2%",
+        "off_score": "76.5",
+        "mean_corpuscular_hemoglobin_concentration": "32.5 g/dL",
+        "red_blood_cell_distribution_width": "13.0%"
+      },
+      "urine_res": {
+        "testosterone_epitestosterone_ratio": "1.0",
+        "specific_gravity": "1.017",
+        "cortisol_concentration": "112 ng/mL",
+        "human_growth_hormone_isoforms": "0.4 ng/mL",
+        "erythropoietin_levels": "12 mIU/mL",
+        "ph": "6.7"
+      },
+      "note": "No significant anomalies detected."
+    },
+    
+    {
+        "athlete_id": "e3e70682",
+        "record_id": "b1",
+        "blood_res": {
+        "Hemoglobin": 15.2,
+        "Hematocrit": 44.5,
+        "Reticulocyte": 1.2,
+        "OFF-Score": 95.0,
+        "MCHC": 33.8,
+        "RDW": 13.5
+        },
+        "urine_res": {
+        "T/E_ratio": 1.1,
+        "Specific_Gravity": 1.015,
+        "Cortisol": 75.3,
+        "hGH": 0.3,
+        "EPO": 12.5,
+        "pH": 6.5
+        },
+        "note": "Routine check, no anomalies."
+    },
+    {
+        "athlete_id": "d4713d60",
+        "record_id": "b2",
+        "blood_res": {
+        "Hemoglobin": 14.8,
+        "Hematocrit": 43.2,
+        "Reticulocyte": 1.0,
+        "OFF-Score": 92.0,
+        "MCHC": 34.0,
+        "RDW": 13.2
+        },
+        "urine_res": {
+        "T/E_ratio": 1.3,
+        "Specific_Gravity": 1.020,
+        "Cortisol": 65.2,
+        "hGH": 0.4,
+        "EPO": 11.0,
+        "pH": 7.0
+        },
+        "note": "Mild dehydration noted."
+    },
+    {
+        "athlete_id": "23a7711a",
+        "record_id": "b3",
+        "blood_res": {
+        "Hemoglobin": 14.5,
+        "Hematocrit": 42.0,
+        "Reticulocyte": 1.4,
+        "OFF-Score": 93.5,
+        "MCHC": 33.5,
+        "RDW": 12.8
+        },
+        "urine_res": {
+        "T/E_ratio": 1.0,
+        "Specific_Gravity": 1.018,
+        "Cortisol": 80.0,
+        "hGH": 0.5,
+        "EPO": 13.2,
+        "pH": 6.8
+        },
+        "note": "Post-training sample."
+    },
+    {
+        "athlete_id": "88561712",
+        "record_id": "b4",
+        "blood_res": {
+        "Hemoglobin": 15.0,
+        "Hematocrit": 44.0,
+        "Reticulocyte": 1.1,
+        "OFF-Score": 94.0,
+        "MCHC": 34.2,
+        "RDW": 13.0
+        },
+        "urine_res": {
+        "T/E_ratio": 1.2,
+        "Specific_Gravity": 1.010,
+        "Cortisol": 72.5,
+        "hGH": 0.2,
+        "EPO": 12.0,
+        "pH": 6.4
+        },
+        "note": "Routine check, slightly elevated cortisol."
+    },
+    {
+        "athlete_id": "e61a441c",
+        "record_id": "b5",
+        "blood_res": {
+        "Hemoglobin": 15.5,
+        "Hematocrit": 45.1,
+        "Reticulocyte": 1.3,
+        "OFF-Score": 96.0,
+        "MCHC": 33.9,
+        "RDW": 13.6
+        },
+        "urine_res": {
+        "T/E_ratio": 1.4,
+        "Specific_Gravity": 1.016,
+        "Cortisol": 78.5,
+        "hGH": 0.3,
+        "EPO": 12.8,
+        "pH": 6.7
+        },
+        "note": "Normal levels."
+    },
+    {
+        "athlete_id": "9c6316b9",
+        "record_id": "b6",
+        "blood_res": {
+        "Hemoglobin": 14.7,
+        "Hematocrit": 43.0,
+        "Reticulocyte": 1.2,
+        "OFF-Score": 92.5,
+        "MCHC": 34.1,
+        "RDW": 12.9
+        },
+        "urine_res": {
+        "T/E_ratio": 1.0,
+        "Specific_Gravity": 1.012,
+        "Cortisol": 70.0,
+        "hGH": 0.4,
+        "EPO": 11.5,
+        "pH": 7.1
+        },
+        "note": "Post-competition test."
+    }
+]
+    

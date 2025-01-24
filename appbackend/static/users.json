@@ -1,0 +1,73 @@
+{
+    "alice.johnson@gmail.com": {
+      "user_id": 1,
+      "name": "Alice Johnson",
+      "role": "Admin",
+      "phone_number": "1234567890",
+      "password": "1234"
+    },
+    "bob.smith@gmail.com": {
+      "user_id": 2,
+      "name": "Bob Smith",
+      "role": "Admin",
+      "phone_number": "1234567891",
+      "password": "adminPass456"
+    },
+    "charlie.williams@gmail.com": {
+      "user_id": 3,
+      "name": "Charlie Williams",
+      "role": "Investigator",
+      "phone_number": "1234567892",
+      "password": "invesPass123"
+    },
+    "danielle.brown@gmail.com": {
+      "user_id": 4,
+      "name": "Danielle Brown",
+      "role": "Investigator",
+      "phone_number": "1234567893",
+      "password": "invesPass456"
+    },
+    "evan.taylor@gmail.com": {
+      "user_id": 5,
+      "name": "Evan Taylor",
+      "role": "Investigator",
+      "phone_number": "1234567894",
+      "password": "invesPass789"
+    },
+    "fiona.moore@gmail.com": {
+      "user_id": 6,
+      "name": "Fiona Moore",
+      "role": "Investigator",
+      "phone_number": "1234567895",
+      "password": "invesPass321"
+    },
+    "george.clark@gmail.com": {
+      "user_id": 7,
+      "name": "George Clark",
+      "role": "Investigator",
+      "phone_number": "1234567896",
+      "password": "invesPass654"
+    },
+    "hannah.adams@gmail.com": {
+      "user_id": 8,
+      "name": "Hannah Adams",
+      "role": "Investigator",
+      "phone_number": "1234567897",
+      "password": "invesPass987"
+    },
+    "ian.walker@gmail.com": {
+      "user_id": 9,
+      "name": "Ian Walker",
+      "role": "Lab",
+      "phone_number": "1234567898",
+      "password": "labPass123"
+    },
+    "julia.allen@gmail.com": {
+      "user_id": 10,
+      "name": "Julia Allen",
+      "role": "Lab",
+      "phone_number": "1234567899",
+      "password": "labPass456"
+    }
+  }
+  
