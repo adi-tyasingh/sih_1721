@@ -48,6 +48,6 @@ Expected Solution: A centralized and comprehensive intelligence and investigatio
   - Analyst
 - Case allotment and management system with features for communicating between diffrent departments (eg. investigator to lab).
 
-Final status: During issues with implementation of the RBAC and other issues with hardware, we were unable to implement many of our proposed features, but work is ongoing and we intend to finish this project, with all of the above listed features implemented.
+Final status: During the hackathon, due to issues with implementation of the RBAC and issues with hardware, we were unable to implement many of our proposed features, but work is ongoing and we intend to finish this project, with all of the above listed features implemented.
 
 
